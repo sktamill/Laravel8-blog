@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48baf8d1-e756-4c8d-8f0e-b098036df81a" name="Changes" comment="" />
+    <list default="true" id="48baf8d1-e756-4c8d-8f0e-b098036df81a" name="Changes" comment="Cancel Verify by Email for Test Login USER">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="07f9ed95-7ee0-499c-a035-92b87aa5b5f2" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -141,7 +147,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="29cGEAyWDaVJbxYCrch0TuEE0cP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -151,19 +159,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/OpenServer/domains/laravel8-blog/resources/views/main",
+    "last_opened_file_path": "E:/OpenServer/domains/laravel8-blog/app/Http/Controllers",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.HTML",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OpenServer\domains\laravel8-blog\app\Http\Controllers" />
       <recent name="E:\OpenServer\domains\laravel8-blog\resources\views\main" />
       <recent name="E:\OpenServer\domains\laravel8-blog\app\Http\Middleware" />
       <recent name="E:\OpenServer\domains\laravel8-blog\app\Http\Requests\Personal" />
       <recent name="E:\OpenServer\domains\laravel8-blog\resources\views\personal\main" />
-      <recent name="E:\OpenServer\domains\laravel8-blog\app\Http\Controllers\Admin\Main" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\OpenServer\domains\laravel8-blog\storage\app\public" />
@@ -187,12 +195,47 @@
       <workItem from="1653404855092" duration="8590000" />
       <workItem from="1653482052004" duration="3920000" />
       <workItem from="1653485998387" duration="6712000" />
-      <workItem from="1653548787535" duration="153755000" />
+      <workItem from="1653548787535" duration="161954000" />
     </task>
+    <task id="LOCAL-00001" summary="Add New Controller">
+      <created>1653997257974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653997257974</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add New Controller">
+      <created>1653997346241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653997346241</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cancel Verify by Email for Test Login USER">
+      <created>1653999333253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653999333253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add folder">
+      <created>1653999877392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653999877392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add New Controller" />
+    <MESSAGE value="Cancel Verify by Email for Test Login USER" />
+    <MESSAGE value="Add folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add folder" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

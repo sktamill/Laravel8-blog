@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48baf8d1-e756-4c8d-8f0e-b098036df81a" name="Changes" comment="Cancel Verify by Email for Test Login USER">
+    <list default="true" id="48baf8d1-e756-4c8d-8f0e-b098036df81a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -156,6 +156,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -195,7 +196,7 @@
       <workItem from="1653404855092" duration="8590000" />
       <workItem from="1653482052004" duration="3920000" />
       <workItem from="1653485998387" duration="6712000" />
-      <workItem from="1653548787535" duration="161954000" />
+      <workItem from="1653548787535" duration="163614000" />
     </task>
     <task id="LOCAL-00001" summary="Add New Controller">
       <created>1653997257974</created>
@@ -225,7 +226,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653999877392</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Cancel Verify by Email for Test Login USER">
+      <created>1654001304678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654001304678</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Cancel Verify by Email for Test Login USER">
+      <created>1654001325084</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654001325084</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,9 +248,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add New Controller" />
-    <MESSAGE value="Cancel Verify by Email for Test Login USER" />
     <MESSAGE value="Add folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add folder" />
+    <MESSAGE value="Cancel Verify by Email for Test Login USER" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cancel Verify by Email for Test Login USER" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

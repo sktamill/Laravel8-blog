@@ -26,7 +26,7 @@ Route::group(['namespace' => 'Main'], function (){
    Route::post('/post/favorites/{post}', [\App\Http\Controllers\Main\IndexController::class, 'postFavoritesStore'])->name('name.post-fav.store');
 });
 
-Route::group(['namespace' => 'Personal', 'prefix' => 'personal', 'middleware' => ['auth', 'verified', 'personal']], function (){
+Route::group(['namespace' => 'Personal', 'prefix' => 'personal', 'middleware' => ['auth', 'personal']], function (){
    Route::get('/', [\App\Http\Controllers\Personal\Main\IndexController::class, 'personal'])->name('personal.index');
    Route::get('/favorites', [\App\Http\Controllers\Personal\Main\IndexController::class, 'personalFavorites'])->name('personal.favorites');
    Route::delete('/favorites/{post}', [\App\Http\Controllers\Personal\Main\IndexController::class, 'personalDestroy'])->name('personal.destroy');
